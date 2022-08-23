@@ -2,7 +2,7 @@
 
 [![operating system](get-detail.png)](https://github.com/guidingtech/what.is.file.explorer.download)
 
-ES File Explorer is a file management program designed for phones. The program mimics the effects and functionalities of desktop file managing software.
+File Explorer is a file management program designed for phones. The program mimics the effects and functionalities of desktop file managing software.
 
 ## How to use File Explorer:
 
