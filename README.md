@@ -1,6 +1,6 @@
 # what is file explorer download
 
-[![operating system](get-detail.png)](https://github.com/guidingtech/what.is.file.explorer.download)
+[![operating system](get-detail.png)](https://icncomputer.com/what-is-file-explorer-download/)
 
 File Explorer is a file management program designed for phones. The program mimics the effects and functionalities of desktop file managing software.
 
